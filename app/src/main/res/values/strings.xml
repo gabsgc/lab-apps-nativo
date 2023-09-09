@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LabAppsNativos</string>
+    <string name="lab_apps_nativos">Lab. Apps Nativos</string>
+    <string name="criado_em_set_2023">Criado em set/2023</string>
+    <string name="criando_tela_para_desafio_1">Criando tela para Desafio 1</string>
+    <string name="tela_criada_para_o_desafio_1_da_disciplina_de_laborat_rio_de_apps_nativos">Tela criada para o Desafio 1 da disciplina de Laboratório de \n Apps Nativos.</string>
+    <string name="segunda_tela_do_desafio">Segunda Tela do Desafio</string>
+    <string name="desenvolvimento_de_n_apps_utilizando_android_n_nativo">Desenvolvimento de \n Apps utilizando Android \n Nativo</string>
+</resources>
